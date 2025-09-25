@@ -1,0 +1,87 @@
+﻿# R and Bioinformatics Project .gitignore
+
+# R files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# R package files
+*.tar.gz
+*.Rcheck/
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.tiff
+*.bmp
+
+# Data files (uncomment if you don't want to track large data files)
+# *.fastq
+# *.fastq.gz
+# *.bam
+# *.sam
+# *.vcf
+# *.bcf
+# *.fq
+# *.fq.gz
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+*.out
+
+# Archive files
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda environment
+.conda/
+
+# Large data directories (uncomment if needed)
+# data/raw/
+# data/processed/
+# results/
+# output/
