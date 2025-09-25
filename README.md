@@ -186,13 +186,14 @@ To adapt the scripts for your environment:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-K.K.-Z. acknowledges support from the Australian Research Council (ARC) Discovery Project (DP240101086). C.Z. is grateful for funding from the Royal Society, UK (Grant Nos. RG/R1/241228 and IEC/NSFC/233339). M.J.S.S acknowledges support from the ARC Discovery Project (DP240101215). This research was supported by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS), with computational resources provided by the National Computational Infrastructure (NCI) Facility and the Pawsey Supercomputing Research Centre through the National Computational Merit Allocation Scheme.
+Kourosh Kalantar-Zadeh acknowledges support from the Australian Research Council (ARC) Discovery Project (DP240101086). Chengchen Zhang is grateful for funding from the Royal Society, UK (Grant Nos. RG/R1/241228 and IEC/NSFC/233339). Michelle J.S. Spencer acknowledges support from the ARC Discovery Project (DP240101215). This research was supported by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS), with computational resources provided by the National Computational Infrastructure (NCI) Facility and the Pawsey Supercomputing Research Centre through the National Computational Merit Allocation Scheme.
 
-We acknowledge Professor Ewa Magdalena Goldys for providing experiential resources. Technical assistance from Lewis Adler at the Solid State & Elemental Analysis Unit (Mark Wainwright Analytical Centre, UNSW Sydney) is gratefully acknowledged. We also acknowledge the facilities and the scientific and technical assistance of Sydney Analytical, a core research facility at the University of Sydney (USYD). The assistance of supercomputing resources from UNSW Katana is also acknowledged. We thank Matthew Wong, Lydia Murphy, and Aravind Manda at the Ramaciotti Centre for Genomics for their technical assistance with Oxford Nanopore Technology. We also thank Yujian Shi from the Sarina Sarina group at USYD for providing a halogen lamp.
+We acknowledge Professor Ewa Magdalena Goldys for providing experiential resources. Technical assistance from Lewis Adler at the Solid State & Elemental Analysis Unit (Mark Wainwright Analytical Centre, UNSW Sydney) is gratefully acknowledged. We also acknowledge the facilities and the scientific and technical assistance of Sydney Analytical, a core research facility at the University of Sydney (USYD). The assistance of supercomputing resources from UNSW Katana is also acknowledged. We thank Matthew Wong, Lydia Murphy, and Aravind Manda at the Ramaciotti Centre for Genomics for their technical assistance with Oxford Nanopore Technology. 
 
 
 ## Data Availability
  All raw sequencing data are available at the NCBI Sequence Read Archive:
     - BioProject: [PRJNA1307762](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1307762)
     - Runs: SRR35033888, SRR35033889, SRR35033890, SRR35033891, SRR35033892
+
 
